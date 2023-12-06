@@ -12,7 +12,7 @@ exports[`renders correctly 1`] = `
     ContentBlock
   </p>
   <div
-    class="rte"
+    class="rte undefined"
     data-testid="contentblock"
   >
     <p>

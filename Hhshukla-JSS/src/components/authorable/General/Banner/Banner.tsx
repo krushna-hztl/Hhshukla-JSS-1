@@ -24,7 +24,7 @@ const Banner = ({ fields }: bannerDataProps) => {
   if (fields === null || fields === undefined) return <></>;
 
   return (
-    <div className="">
+    <div data-component="authorable/general/banner" data-testid="banner">
       <div className="relative">
         <Image field={fields?.image} className="onject-cover  text-white" />
         <div className="md:m-8 md:p-4 md:absolute inset-0  md:flex md:justify-center flex-col ">

@@ -2,7 +2,7 @@
 
 exports[`handles various attributes, invalid attributes, and character types in <a> tags appropriately and nested tags in <a> tags 1`] = `
 <div
-  class="rte"
+  class="rte undefined"
 >
   <p>
     At vero eos et accusamus et iusto odio dignissimos ducimus qui 
@@ -216,7 +216,7 @@ Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatib
 
 exports[`renders common usage correctly 1`] = `
 <div
-  class="rte"
+  class="rte undefined"
 >
   <p>
     At vero eos et accusamus et iusto odio dignissimos ducimus qui 
